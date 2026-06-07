@@ -1,4 +1,4 @@
-# Clover 🍀
+# Clover 
 
 AI-powered travel companion that learns user travel personality, recommends destinations, generates itineraries using local LLMs, tracks travel achievements, and creates yearly travel wrapped summaries.
 
